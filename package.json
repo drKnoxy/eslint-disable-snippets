@@ -1,0 +1,21 @@
+{
+    "name": "eslint-ignore-snippets",
+    "displayName": "eslint-ignore-snippets",
+    "description": "Simple snippets for ignoring eslint rules",
+    "version": "0.0.1",
+    "publisher": "DrKnoxy",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
