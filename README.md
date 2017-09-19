@@ -1,6 +1,6 @@
-# eslint-ignore-snippets README
+# eslint-disable-snippets
 
-This is the README for your extension "eslint-ignore-snippets". After writing up a brief description, we recommend including the following sections.
+This extensions contains basic snippets for block ignoring a specific rule, or just the next line.
 
 ## Features
 

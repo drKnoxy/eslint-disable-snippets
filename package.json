@@ -1,7 +1,7 @@
 {
-    "name": "eslint-ignore-snippets",
-    "displayName": "eslint-ignore-snippets",
-    "description": "Simple snippets for ignoring eslint rules",
+    "name": "eslint-disable-snippets",
+    "displayName": "eslint-disable-snippets",
+    "description": "Simple snippets for disable eslint rules",
     "version": "0.0.1",
     "publisher": "DrKnoxy",
     "engines": {
@@ -10,7 +10,7 @@
     "license": "SEE LICENSE IN REPO",
     "repository": {
         "type": "git",
-        "url": "https://github.com/drKnoxy/eslint-ignore-snippets"
+        "url": "https://github.com/drKnoxy/eslint-disable-snippets"
     },
     "categories": [
         "Snippets"
