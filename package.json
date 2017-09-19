@@ -7,6 +7,11 @@
     "engines": {
         "vscode": "^1.12.0"
     },
+    "license": "SEE LICENSE IN REPO",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/drKnoxy/eslint-ignore-snippets"
+    },
     "categories": [
         "Snippets"
     ],
@@ -14,6 +19,14 @@
         "snippets": [
             {
                 "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "jsx",
                 "path": "./snippets/snippets.json"
             }
         ]

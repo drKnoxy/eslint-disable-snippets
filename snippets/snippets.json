@@ -1,1 +1,12 @@
-{}
+{
+  "eslint - disable": {
+    "prefix": "eslint-disable",
+    "body": ["/* eslint-disable ${1:rule} */", "$0/* eslint-enable ${1} */"],
+    "description": "Eslint disable wrapper"
+  },
+  "eslint-disable-next-line": {
+    "prefix": "eslint-disable-next-line",
+    "body": ["$0// eslint-disable-next-line"],
+    "description": "Eslint disable next line"
+  }
+}
