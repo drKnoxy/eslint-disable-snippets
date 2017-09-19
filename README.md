@@ -2,7 +2,9 @@
 
 This extensions contains basic snippets for block ignoring a specific rule, or just the next line.
 
-Start typing `eslint-disable` in a javascript, javascriptreact, or jsx file to trigger the snippet autocomplete.
+Start typing `eslint-disable` in a javascript, javascriptreact, or jsx file to trigger the snippet autocomplete. Press `tab` after entering the rule name to drop your cursor in the correct position.
+
+![Block disable in use](/images/disable-block.gif)
 
 <!-- 
 ## Features
