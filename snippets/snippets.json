@@ -2,16 +2,16 @@
   "eslint-disable": {
     "prefix": "eslint-disable",
     "body": ["/* eslint-disable ${1:rule} */", "$0/* eslint-enable ${1} */"],
-    "description": "Eslint disable wrapper"
+    "description": "ESlint disable wrapper"
   },
   "eslint-disable-line": {
     "prefix": "eslint-disable-line",
     "body": ["// eslint-disable-line ${0:rule}"],
-    "description": "Eslint disable line"
+    "description": "ESlint disable line"
   },
   "eslint-disable-next-line": {
     "prefix": "eslint-disable-next-line",
     "body": ["// eslint-disable-next-line ${0:rule}"],
-    "description": "Eslint disable next line"
+    "description": "ESlint disable next line"
   }
 }
