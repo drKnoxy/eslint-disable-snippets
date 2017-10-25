@@ -3,5 +3,9 @@ All notable changes to the "eslint-ignore-snippets" extension will be documented
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.1.0
+- Added `eslint-disable-line` snippet @thierrymichel
+- Added rule placeholder for next-line snippet @thierrymichel
+
 ## [Unreleased]
 - Initial release
