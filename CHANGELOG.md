@@ -6,13 +6,21 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 - Initial release
 
-## [1.1.0]
+## [1.1.0] - 2017-09-13
 ### Added
 - `eslint-disable-line` snippet @thierrymichel
 
 ### Changed
 - rule placeholder for next-line snippet @thierrymichel
 
-## [1.1.1]
+## [1.1.1] - 2017-10-25
+### Changed
+- Trying to get changelog to appear
+
+## [1.1.2] - 2017-10-25
+### Changed
+- Trying to get changelog to appear
+
+## [1.1.3] - 2017-10-25
 ### Changed
 - Trying to get changelog to appear
