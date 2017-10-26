@@ -24,3 +24,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.1.3] - 2017-10-25
 ### Changed
 - Trying to get changelog to appear
+
+## [1.1.4] - 2017-10-26
+### Changed
+- well that was dumb
