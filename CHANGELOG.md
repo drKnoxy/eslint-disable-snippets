@@ -28,3 +28,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.1.4] - 2017-10-26
 ### Changed
 - well that was dumb
+
+## [1.1.5] - 2017-10-26
+### Changed
+- Add support for triggering snippets in TS
+  thanks https://github.com/infctr

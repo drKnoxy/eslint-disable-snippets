@@ -15,4 +15,4 @@ and specifies the language of the snippets
 * you can also reload (`Ctrl+R` or `Cmd+R` on Mac) the VS Code window with your extension to load your changes
 
 ## Publishing
-* https://code.visualstudio.com/docs
+* https://code.visualstudio.com/docs/extensions/publish-extension
