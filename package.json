@@ -1,39 +1,42 @@
 {
-    "name": "eslint-disable-snippets",
-    "displayName": "eslint-disable-snippets",
-    "description": "Simple snippets for disable eslint rules",
-    "version": "1.1.5",
-    "publisher": "drKnoxy",
-    "engines": {
-        "vscode": "^1.12.0"
-    },
-    "license": "SEE LICENSE IN REPO",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/drKnoxy/eslint-disable-snippets"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "icon": "images/icon.png",
-    "contributes": {
-        "snippets": [
-            {
-                "language": "javascript",
-                "path": "./snippets/snippets.json"
-            },
-            {
-                "language": "javascriptreact",
-                "path": "./snippets/snippets.json"
-            },
-            {
-                "language": "typescript",
-                "path": "./snippets/snippets.json"
-            },
-            {
-                "language": "typescriptreact",
-                "path": "./snippets/snippets.json"
-            }
-        ]
-    }
+  "name": "eslint-disable-snippets",
+  "displayName": "eslint-disable-snippets",
+  "description": "Simple snippets for disable eslint rules",
+  "version": "1.1.5",
+  "publisher": "drKnoxy",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "license": "SEE LICENSE IN REPO",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drKnoxy/eslint-disable-snippets"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "scripts": {
+    "build": "node ./build.js"
+  },
+  "icon": "images/icon.png",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
 }

@@ -33,3 +33,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 - Add support for triggering snippets in TS
   thanks https://github.com/infctr
+
+## [1.2.0] - 2019-01-25
+### Changed
+- Added a list of hints to the `eslint-disable` snippet
+- I added a list of rules for things I commonly ignore
+- I _did not_ add hints to `eslint-disable-line` and `eslint-disable-next-line`
+  I could... but in practice I use those without rules
