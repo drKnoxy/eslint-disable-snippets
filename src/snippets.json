@@ -9,12 +9,12 @@
   },
   "eslint-disable-line": {
     "prefix": "eslint-disable-line",
-    "body": ["// eslint-disable-line ${0:rule}"],
+    "body": ["// eslint-disable-line ${1|INSERT_RULES|}"],
     "description": "ESLint disable line"
   },
   "eslint-disable-next-line": {
     "prefix": "eslint-disable-next-line",
-    "body": ["// eslint-disable-next-line ${0:rule}"],
+    "body": ["// eslint-disable-next-line ${1|INSERT_RULES|}"],
     "description": "ESLint disable next line"
   }
 }

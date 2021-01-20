@@ -2,7 +2,7 @@
   "name": "eslint-disable-snippets",
   "displayName": "eslint-disable-snippets",
   "description": "Simple snippets for disable eslint rules",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "publisher": "drKnoxy",
   "engines": {
     "vscode": "^1.12.0"

@@ -1,7 +1,7 @@
 const fs = require("fs");
 const rules = require("./src/eslint-rule-hints");
 
-const RULES_PLACEHOLDER = "INSERT_RULES";
+const RULES_PLACEHOLDER = new RegExp(/INSERT_RULES/g);
 
 /** @type {string} */
 const snippets = fs.readFileSync("./src/snippets.json", "utf8");
