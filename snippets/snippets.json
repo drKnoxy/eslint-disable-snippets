@@ -9,12 +9,12 @@
   },
   "eslint-disable-line": {
     "prefix": "eslint-disable-line",
-    "body": ["// eslint-disable-line ${0:rule}"],
+    "body": ["// eslint-disable-line ${1|camelcase,default-case,func-names,global-require,import/prefer-default-export,indent,max-len,new-cap,no-alert,no-cond-assign,no-confusing,no-console,no-extend-native,no-mixed-operators,no-new,no-param-reassign,no-shadow,no-undef,no-unused-vars,prefer-arrow-callback,prefer-rest-params,react/prop-types,wrap-iife|}"],
     "description": "ESLint disable line"
   },
   "eslint-disable-next-line": {
     "prefix": "eslint-disable-next-line",
-    "body": ["// eslint-disable-next-line ${0:rule}"],
+    "body": ["// eslint-disable-next-line ${1|camelcase,default-case,func-names,global-require,import/prefer-default-export,indent,max-len,new-cap,no-alert,no-cond-assign,no-confusing,no-console,no-extend-native,no-mixed-operators,no-new,no-param-reassign,no-shadow,no-undef,no-unused-vars,prefer-arrow-callback,prefer-rest-params,react/prop-types,wrap-iife|}"],
     "description": "ESLint disable next line"
   }
 }
