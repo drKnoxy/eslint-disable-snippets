@@ -64,3 +64,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Hint for disable line, whatever ppl
 - Updated readme for windows users
+
+## [1.4.0] - 2023-08-16
+
+### Changed
+
+- Add more eslint rules to autocomplete
+- Trigger in vue files
